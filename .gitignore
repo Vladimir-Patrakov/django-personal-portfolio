@@ -3,4 +3,7 @@
 *.pyc
 __pycache__/
 local_settings.py
-/static/
+src/static/
+nginx/static/
+nginx/media/
+/*_volume/
